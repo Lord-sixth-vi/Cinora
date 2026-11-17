@@ -122,7 +122,56 @@ Sorry about that! Open **Settings → About → Report a bug**, or [open an issu
 
 ## 💜 Credits
 
-Cinora stands on the shoulders of open-source giants, including AndroidX, Jetpack Compose, Media3 (ExoPlayer), NewPipe Extractor, OkHttp, Coil and QuickJS. Sponsor-skip data comes from [SponsorBlock](https://sponsor.ajay.app). Full list and licences: **Settings → About → Open-source credits**.
+Cinora stands on the shoulders of open-source giants. Huge thanks to everyone who builds and shares these. 🙌
+Sorted by what they do, then A to Z.
+
+### 🎥 Video and playback
+
+| Project | What it does in Cinora | Licence |
+|---|---|---|
+| [Anime4K](https://github.com/bloc97/Anime4K) by bloc97 | Real-time upscaling shaders for sharper animation | MIT |
+| [Media3 / ExoPlayer](https://github.com/androidx/media) by Google | The video engine: playback, HLS and DASH streams, media controls | Apache 2.0 |
+| [NewPipe Extractor](https://github.com/TeamNewPipe/NewPipeExtractor) by Team NewPipe | Talks to YouTube without Google's apps or tracking | GPL 3.0 |
+
+### 🎨 Look and feel
+
+| Project | What it does in Cinora | Licence |
+|---|---|---|
+| [Coil](https://github.com/coil-kt/coil) | Loads thumbnails and channel pictures, fast | Apache 2.0 |
+| [Jetpack Compose](https://developer.android.com/jetpack/compose) by Google | Every screen you see | Apache 2.0 |
+| [Material 3 and Material Icons](https://m3.material.io) by Google | Components, Lite mode's Material You look, and icons | Apache 2.0 |
+| [Outfit](https://fonts.google.com/specimen/Outfit) by Rodrigo Fuenzalida | Headline font | SIL OFL 1.1 |
+| [Plus Jakarta Sans](https://fonts.google.com/specimen/Plus+Jakarta+Sans) by Tokotype | Body text font | SIL OFL 1.1 |
+
+### 🧱 Under the hood
+
+| Project | What it does in Cinora | Licence |
+|---|---|---|
+| [AndroidX Activity, Core and Lifecycle](https://developer.android.com/jetpack/androidx) by Google | App basics: screens, lifecycles, system bars | Apache 2.0 |
+| [AndroidX DataStore](https://developer.android.com/topic/libraries/architecture/datastore) by Google | Remembers your settings | Apache 2.0 |
+| [AndroidX Room](https://developer.android.com/training/data-storage/room) by Google | On-phone database for watch progress and preferences | Apache 2.0 |
+| [kotlinx.coroutines](https://github.com/Kotlin/kotlinx.coroutines) by JetBrains | Keeps everything smooth by working in the background | Apache 2.0 |
+| [kotlinx.serialization](https://github.com/Kotlin/kotlinx.serialization) by JetBrains | Reads and writes data files | Apache 2.0 |
+| [OkHttp](https://github.com/square/okhttp) by Square | Fast, reliable internet connections | Apache 2.0 |
+| [QuickJS](https://bellard.org/quickjs/) by Fabrice Bellard and Charlie Gordon, Android wrapper by [Cash App](https://github.com/cashapp/quickjs-java) | Small, safe JavaScript engine | MIT / Apache 2.0 |
+
+### 🔌 Optional, downloaded only if you turn it on
+
+| Project | What it does in Cinora | Licence |
+|---|---|---|
+| [TDLib](https://github.com/tdlib/td) by Telegram | Telegram chat inside the app | Boost Software License 1.0 |
+
+### 🌐 Community data services
+
+| Service | What it does in Cinora | Terms |
+|---|---|---|
+| [DeArrow](https://dearrow.ajay.app) by Ajay Ramachandran and contributors | Crowd-sourced honest titles and thumbnails | Data under CC BY-NC-SA 4.0 |
+| [Return YouTube Dislike](https://returnyoutubedislike.com) | Brings back dislike counts | Used through its public API |
+| [SponsorBlock](https://sponsor.ajay.app) by Ajay Ramachandran and contributors | Crowd-sourced sponsor-segment skipping | Data under CC BY-NC-SA 4.0 |
+
+Full licence texts are in the app: **Settings → About → Open-source credits**.
+
+<sub>Cinora is an independent app. It is not affiliated with, endorsed by or sponsored by YouTube or Google. YouTube is a trademark of Google LLC.</sub>
 
 ## 📬 Say hi
 
