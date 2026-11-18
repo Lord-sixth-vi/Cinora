@@ -125,6 +125,12 @@ Sorry about that! Open **Settings → About → Report a bug**, or [open an issu
 Cinora stands on the shoulders of open-source giants. Huge thanks to everyone who builds and shares these. 🙌
 Sorted by what they do, then A to Z.
 
+### 🌊 Inspiration
+
+| Project | How it inspired Cinora | Licence |
+|---|---|---|
+| [Flow](https://github.com/A-EDev/Flow) by A-EDev | A big inspiration for Cinora's features, like local recommendations, Return YouTube Dislike and casting. Go give it a ⭐! | GPL 3.0 |
+
 ### 🎥 Video and playback
 
 | Project | What it does in Cinora | Licence |
