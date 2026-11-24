@@ -53,10 +53,27 @@
 - ⏪ Double-tap to skip, and keep tapping: +10, +20, +30…
 - 🖼️ Picture-in-picture, 🎧 background play, and it remembers where you stopped
 - 🌈 Black bars in full screen glow with the video instead of just… being black
-- 🎚️ Fancy seek bars: wavy, neon, galaxy, lava, vinyl… plus little animated buddies that walk along as you watch
+- 🎚️ Fancy seek bars: wavy, neon, galaxy, lava, vinyl… plus a race car, ninja, motorbike, rocket, steam train, surfer or paper plane that travels along as you watch
+- 🎡 Six looks for the volume and brightness swipes, including a rotary dial and a liquid glass tube
 - 😴 Sleep timer, for when "one more video" becomes a lie
 - 📺 Cast to your TV, no Google needed
 - 🎛️ Equalizer, for bass you can feel in your soul
+
+### 📥 Downloads and Library
+- ⬇️ Save single videos or whole playlists, at the quality you choose, up to 8K
+- 📚 History, saved videos, playlists and backup, all on your phone
+- 📲 Bring your channels: import subscriptions from YouTube (Google Takeout) or NewPipe in one tap, no sign-in
+
+### 👥 Together mode
+- 💞 Watch in sync with your partner, friends or family: everyone sees the same moment
+- 🎙️ Hold-to-talk walkie-talkie, voice notes and chat in every room
+- 🔒 Encrypted, with no accounts. Switch it on in **Settings → Together mode**
+
+### 🎓 Study mode
+- 📖 Real lectures for your class, board or exam (150+ exams), plus free courses from NPTEL, Khan Academy, MIT and more
+- 🍿 Follow a course and it's saved in the right order, resuming where you stopped
+- 📈 Streaks, revision reminders, a syllabus tracker and a Pomodoro timer
+- Find it in **Settings → Experimental Lab → Study mode**
 
 ### 🛡️ Private by design
 - 🚫 No analytics, no ads, no Google Play Services
@@ -85,7 +102,11 @@ Every Cinora version gets a codename, because "1.0" alone felt a bit lonely.
 
 | Version | Codename | Highlights |
 |---|---|---|
-| 1.0 | 🌅 Aurora | The very first one: YouTube, a player you'll actually enjoy, privacy, Lite mode and self-updates |
+| 1.0 | 🌅 Aurora | The very first one: YouTube, a player up to 8K, downloads, Library, Together mode, Study mode, privacy, Lite mode and self-updates |
+
+## 📖 Source code
+
+Cinora is free software under the [GNU General Public License 3.0](https://www.gnu.org/licenses/gpl-3.0.html). Every release has its full source code attached as a `.zip` next to the APK.
 
 ## 🤔 FAQ
 
