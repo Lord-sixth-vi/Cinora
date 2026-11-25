@@ -174,6 +174,9 @@ Full licence texts are in the app: **Settings → About → Open-source credits*
 
 ## 📬 Say hi
 
-Bugs, ideas, or just want to say the app is cool? [Open an issue](https://github.com/Lord-sixth-vi/Cinora/issues) 💌
+Bugs, ideas, or just want to say the app is cool? 💌
+
+- 💬 **Telegram:** [@Thelordsixth](https://t.me/Thelordsixth)
+- 🐛 **GitHub:** [open an issue](https://github.com/Lord-sixth-vi/Cinora/issues)
 
 <p align="center"><sub>Made with ☕, 🍿 and an unreasonable love for smooth scrolling.</sub></p>
