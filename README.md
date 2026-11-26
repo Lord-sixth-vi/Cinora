@@ -35,7 +35,7 @@
 - ⚡ **Fast.** Tap a video and it starts. No popcorn-making time required.
 - 🧈 **Buttery smooth.** 120Hz motion so silky it should come with a warning label.
 - 🪶 **Tiny.** A few MB. Your storage will barely notice it moved in.
-- 🧠 **Recommendations made on your phone,** not on someone's server farm.
+- 🧠 **Recommendations made on your phone,** not on someone's server farm. Tell it what you love, block what you don't, no login needed.
 
 ## ✨ What's inside
 
@@ -46,6 +46,9 @@
 - 🏷️ Honest titles and thumbnails instead of clickbait (no more "YOU WON'T BELIEVE…")
 - ⏭️ Skips sponsor segments automatically, privately
 - 🎵 Lyrics on music videos, for your shower concerts
+- 🎯 Pick your topics (or type your own, Hindi and Hinglish too), block the rest, and ask "Why am I seeing this?" on any video
+- 😌 Mood chips on Home: Chill, Learn, Laugh, Music, Long watch
+- ⏱️ "I've got 10 minutes": Home shows only what fits
 
 ### 🕹️ The player
 - 👆 Press and hold for **2x**, then slide up or down for **1.5x · 2x · 2.5x · 3x**. Lectures, meet your match.
@@ -58,15 +61,23 @@
 - 😴 Sleep timer, for when "one more video" becomes a lie
 - 📺 Cast to your TV, no Google needed
 - 🎛️ Equalizer, for bass you can feel in your soul
+- 📻 Radio mode, a queue you can drag around, and dual subtitles in two languages at once
+- ✂️ Clip a moment as a short video or GIF and share it
+- 🌙 Bedtime mode: warmer colours, softer sound and a sleep timer at night
 
 ### 📥 Downloads and Library
 - ⬇️ Save single videos or whole playlists, at the quality you choose, up to 8K
 - 📚 History, saved videos, playlists and backup, all on your phone
-- 📲 Bring your channels: import subscriptions from YouTube (Google Takeout) or NewPipe in one tap, no sign-in
+- 📲 Bring your channels: import subscriptions from YouTube (Google Takeout), or your whole NewPipe or Flow backup, no sign-in
+- 🍿 Binge Buddy keeps a whole series in order, episode 1 to the last, and adds new episodes by itself
+- 🔍 Search your library, group your subscriptions, and let Watch later clean itself
+- 🎁 Cinora Wrapped: your year in videos, made on your phone
 
 ### 👥 Together mode
 - 💞 Watch in sync with your partner, friends or family: everyone sees the same moment
 - 🎙️ Hold-to-talk walkie-talkie, voice notes and chat in every room
+- 📝 Our list, 💌 love notes left at a scene, and a heart you both hold to fill
+- 🎶 A group queue and 🔥 watch streaks for friends; QR join and movie night reminders for family
 - 🔒 Encrypted, with no accounts. Switch it on in **Settings → Together mode**
 
 ### 🎓 Study mode
@@ -79,9 +90,11 @@
 - 🚫 No analytics, no ads, no Google Play Services
 - 🗂️ Crash reports stay on your phone; they're only sent if *you* tap Send
 - 🔌 Backup servers stay off unless you switch them on
+- 🕶️ Incognito mode, 🔐 App lock with fingerprint, and 🧒 Kids lock with safe search and a daily limit
 
 ### 🔋 Kind to every phone
 - 🐢➡️🐇 **Lite mode** turns off the eye candy so older phones run like new ones
+- 🎨 Colour themes, and Home as big cards, a compact list or a grid
 - 🔄 Updates itself: one tap, done, your settings stay put
 
 ## 📲 Install in 30 seconds
@@ -102,6 +115,7 @@ Every Cinora version gets a codename, because "1.0" alone felt a bit lonely.
 
 | Version | Codename | Highlights |
 |---|---|---|
+| 1.1 | 🌸 Bloom | Recommendations you control, colour themes, Binge Buddy, Radio mode, Clip and share, Incognito, App lock and Kids lock, more Together mode, faster downloads |
 | 1.0 | 🌅 Aurora | The very first one: YouTube, a player up to 8K, downloads, Library, Together mode, Study mode, privacy, Lite mode and self-updates |
 
 ## 📖 Source code
